@@ -1,5 +1,16 @@
 ## Hi there 👋
+## 🚀 About Me
+soy Zuriel, aprendiendo a ser full stack developer...
 
+Usando Python.
+
+
+## Git Stats
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zuri3lc)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuri3lc)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **zuri3lc/zuri3lc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
